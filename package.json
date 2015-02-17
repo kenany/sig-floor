@@ -1,0 +1,26 @@
+{
+  "name": "sig-floor",
+  "version": "0.0.0",
+  "description": "Round down to the nearest multiple of significance",
+  "keywords": [
+    "math"
+  ],
+  "repository": "KenanY/sig-floor",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "devDependencies": {
+    "lodash.isfunction": "^3.0.1",
+    "tape": "^3.5.0"
+  }
+}
