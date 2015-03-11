@@ -8,7 +8,7 @@ test('exports a function', function(t) {
 });
 
 test('floors', function(t) {
-  t.plan(12);
+  t.plan(11);
   t.equal(floor(169.65, 1), 169);
   t.equal(floor(169.65, 0.05), 169.65);
   // t.equal(floor(169.64, 0.05), 169.6);
