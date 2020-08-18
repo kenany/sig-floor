@@ -24,9 +24,9 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^3.0.0",
+    "@kenan/eslint-config": "^8.0.0",
     "@kenan/renovate-config": "^1.4.0",
-    "eslint": "^3.5.0",
+    "eslint": "^7.7.0",
     "lodash.isfunction": "^3.0.1",
     "tape": "^4.6.0"
   }
