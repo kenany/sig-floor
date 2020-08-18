@@ -16,6 +16,9 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "node": "10 || 12 || >=14"
+  },
   "scripts": {
     "pretest": "eslint index.js test/index.js",
     "test": "tape test/index.js"

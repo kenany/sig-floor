@@ -1,7 +1,5 @@
 # sig-floor
 
-[![Build Status][travis-svg]][travis]
-
 Round a number down (towards zero) to the nearest multiple of significance.
 This is just like the `FLOOR` function in Microsoft Excel.
 
@@ -43,7 +41,3 @@ var sigFloor = require('sig-floor');
 
 Given the _Number_ `number` that you want to round, returns the floor of
 `number` to the _Number_ `significance` multiple.
-
-
-   [travis]: https://travis-ci.org/KenanY/sig-floor
-   [travis-svg]: https://img.shields.io/travis/KenanY/sig-floor.svg
