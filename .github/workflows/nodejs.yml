@@ -23,5 +23,6 @@ jobs:
         useLockFile: false
     - name: npm ls
       run: npm ls
+      continue-on-error: true
     - name: Test
       run: npm test
