@@ -30,7 +30,7 @@
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/git": "^10.0.0",
     "conventional-changelog-conventionalcommits": "^4.6.1",
-    "eslint": "^7.32.0",
+    "eslint": "^8.1.0",
     "lodash.isfunction": "^3.0.9",
     "semantic-release": "^18.0.0",
     "tape": "^5.3.1"
