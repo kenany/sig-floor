@@ -1,7 +1,7 @@
-var isFunction = require('lodash.isfunction');
-var test = require('tape');
+const isFunction = require('lodash.isfunction');
+const test = require('tape');
 
-var floor = require('../');
+const floor = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
