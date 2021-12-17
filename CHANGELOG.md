@@ -1,3 +1,10 @@
+### [3.0.1](https://github.com/KenanY/sig-floor/compare/3.0.0...3.0.1) (2021-12-17)
+
+
+### Bug Fixes
+
+* add JSDoc ([1d30e5c](https://github.com/KenanY/sig-floor/commit/1d30e5c71152e62359f5e559f5c098d2f7651cbe))
+
 ## [3.0.0](https://github.com/KenanY/sig-floor/compare/2.0.0...3.0.0) (2021-09-29)
 
 

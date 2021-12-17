@@ -1,6 +1,6 @@
 {
   "name": "sig-floor",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Round down to the nearest multiple of significance",
   "keywords": [
     "math"
