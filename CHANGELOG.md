@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/KenanY/sig-floor/compare/3.0.1...4.0.0) (2022-11-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v12 is no longer supported.
+
+### Features
+
+* drop Node.js v12 support ([ff8cbb5](https://github.com/KenanY/sig-floor/commit/ff8cbb5bda8e0a2a2b12d45b2980bf7ba89872ff))
+
 ### [3.0.1](https://github.com/KenanY/sig-floor/compare/3.0.0...3.0.1) (2021-12-17)
 
 
