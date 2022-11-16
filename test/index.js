@@ -3,12 +3,12 @@ const test = require('tape');
 
 const floor = require('../');
 
-test('exports a function', function(t) {
+test('exports a function', (t) => {
   t.plan(1);
   t.ok(isFunction(floor));
 });
 
-test('floors', function(t) {
+test('floors', (t) => {
   t.plan(11);
   t.equal(floor(169.65, 1), 169);
   t.equal(floor(169.65, 0.05), 169.65);

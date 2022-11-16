@@ -6,7 +6,7 @@ This is just like the `FLOOR` function in Microsoft Excel.
 ## Example
 
 ``` javascript
-var sigFloor = require('sig-floor');
+const sigFloor = require('sig-floor');
 
 // round to the nearest multiple of 2
 sigFloor(2.5, 2);
@@ -34,7 +34,7 @@ $ npm install sig-floor
 ## API
 
 ``` javascript
-var sigFloor = require('sig-floor');
+const sigFloor = require('sig-floor');
 ```
 
 ### `sigFloor(number, significance)`
