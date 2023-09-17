@@ -5,7 +5,7 @@
   "keywords": [
     "math"
   ],
-  "repository": "KenanY/sig-floor",
+  "repository": "github:kenany/sig-floor",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "test": "test"
   },
   "engines": {
-    "node": "14 || 16 || >=18"
+    "node": "18 || >=20"
   },
   "scripts": {
     "lint": "eslint index.js test/index.js",
@@ -26,7 +26,7 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^10.0.2",
+    "@kenan/eslint-config": "^11.0.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^6.1.0",
