@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/kenany/sig-floor/compare/4.0.0...5.0.0) (2023-09-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([866c523](https://github.com/kenany/sig-floor/commit/866c5235aecf51b06c0d1581ba2b06abaf358076))
+
 ## [4.0.0](https://github.com/KenanY/sig-floor/compare/3.0.1...4.0.0) (2022-11-16)
 
 
