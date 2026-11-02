@@ -5,7 +5,7 @@ This is just like the `FLOOR` function in Microsoft Excel.
 
 ## Example
 
-``` javascript
+```javascript
 import { floor } from 'sig-floor';
 
 // round to the nearest multiple of 2
@@ -27,13 +27,13 @@ floor(0.234, 0.01);
 
 ## Installation
 
-``` bash
+```bash
 $ npm install sig-floor
 ```
 
 ## API
 
-``` javascript
+```javascript
 import { floor } from 'sig-floor';
 ```
 
